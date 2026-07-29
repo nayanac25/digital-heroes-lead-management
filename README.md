@@ -172,8 +172,6 @@ Open another terminal:
 ```bash
 cd client
 npm install
-npm run dev
-```
 
 The frontend will run on the local URL displayed by Vite, typically:
 
@@ -443,39 +441,45 @@ An `.env.example` file is provided to document required environment variables wi
 
 ## Deployment
 
+The application has been successfully deployed and verified in production.
+
 ### Frontend
 
-Deployment URL:
+Hosted on Vercel:
 
-```text
-To be added after deployment
-```
+https://digital-heroes-lead-management-pi.vercel.app
 
 ### Backend API
 
-Deployment URL:
+Hosted on Render:
 
-```text
-To be added after deployment
-```
+https://digital-heroes-lead-management-api.onrender.com
 
-Deployment URLs will be added after production deployment and verification.
+Production API base URL:
+
+https://digital-heroes-lead-management-api.onrender.com/api
+
+### Database
+
+MongoDB Atlas is used as the production database.
+
+The deployed application has been tested for public lead submission, Admin functionality, Member functionality, role-based access, lead assignment, status updates, notes, and logout.
 
 ## Demo Credentials
 
-Demo Admin and Member credentials will be provided for evaluation after deployment.
+Dedicated demo accounts are available for project evaluation.
 
-```text
-Admin
-Email: To be added
-Password: To be added
+### Admin
 
-Member
-Email: To be added
-Password: To be added
-```
+Email: `admin.demo@example.com`  
+Password: `DeAd@123##`
 
-These accounts are intended only for project evaluation.
+### Member
+
+Email: `member.demo@example.com`  
+Password: `mEDem@4321#`
+
+These accounts are intended only for evaluation of the Admin and Member role-based functionality.
 
 ## Digital Heroes Training Task
 
@@ -485,7 +489,7 @@ The live application includes the required visible credit:
 
 **Built for Digital Heroes Training Task**
 
-Digital Heroes: `digitalheroesco.com`
+Digital Heroes: https://digitalheroesco.com
 
 ## Author
 
