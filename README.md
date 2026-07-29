@@ -496,3 +496,8 @@ Digital Heroes: https://digitalheroesco.com
 Nayana Chafekar
 
 Full Stack / MERN Stack Developer
+
+
+## AI Usage
+
+I used AI as a supporting tool during this task to clarify requirements, brainstorm implementation approaches, review code structure, and troubleshoot issues during development. I reviewed the suggestions before using them and adapted the authentication flow, role-based permissions, lead-management features, API structure, UI, testing, and documentation based on my own understanding of the requirements. I manually tested the Admin and Member workflows, verified the deployed application, and made changes where needed.
